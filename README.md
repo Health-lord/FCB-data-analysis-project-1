@@ -90,6 +90,8 @@ Provide clear and concise information about services, plans, and pricing.
   
 By implementing these recommendations, network providers can improve customer satisfaction, loyalty, and retention, ultimately driving business growth and revenue.
 
+![](OIP.jpeg)
+
 ## Tools used
 1. Microsoft Excel for data cleaning [Download here](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing)
 
