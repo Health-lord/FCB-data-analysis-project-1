@@ -4,6 +4,8 @@
 
 GAGE TECH is a top telecom provider in Redemption City of God, offering advanced fiber optic and DSL internet since 2015. Our network delivers speeds up to 1 Gbps with ultra-low latency, ideal for streaming, gaming, and remote work. We're dedicated to customer satisfaction, innovation, and bridging the digital divide.
 
+![](
+
 ## Overview
 This dataset contains different customers level information for GAGE TECH company. Different attributes related to the services used were recorded with focus on all factors influencing their dissatisfaction.
 
@@ -73,6 +75,6 @@ Provide clear and concise information about services, plans, and pricing.
   
 By implementing these recommendations, network providers can improve customer satisfaction, loyalty, and retention, ultimately driving business growth and revenue.
 
-![](R.png)
+![](Customer-Churn.jpg)
 
 
