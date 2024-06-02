@@ -1,58 +1,41 @@
-# FCB-data-analysis-project-1
+# GAGE TECH DATA ANALYSIS
 
-## Project outline
-This project outline aims to provide a comprehensive framework for investigating customer satisfaction towards different network providers in Nigeria. The study's findings will contribute to the existing literature and offer valuable insights for network providers to enhance their services and improve customer satisfaction.
+## Description
+
+GAGE TECH is a top telecom provider in Redemption City of God, offering advanced fiber optic and DSL internet since 2015. Our network delivers speeds up to 1 Gbps with ultra-low latency, ideal for streaming, gaming, and remote work. We're dedicated to customer satisfaction, innovation, and bridging the digital divide.
+
+## Overview
+This dataset contains different customers level information for GAGE TECH company. Different attributes related to the services used were recorded with focus on all factors influencing their dissatisfaction.
+
+#### This reports details the analysis of customer satisfaction towards Gage Tech. in the last 2years. The study findings will contribute to the existing literature and offer valuable insights for this company to enhance their services and improve customer satisfaction.
 
 ## Background of study
 The telecommunications industry in Nigeria has experienced significant growth in recent years, with multiple network providers offering services to customers.
 
 ## Problem statement
-With various options available, customers often face challenges in selecting the best network provider that meets their needs, leading to dissatisfaction.
 
-## Overview
-The Nigerian telecommunications industry is semi-fragmented, with major players like MTN Nigeria Communications PLC, Airtel Networks Limited, Globacom Limited, and 9Mobile. The industry has seen growth in recent years, driven by government initiatives, IoT usage, and increasing smartphone adoption. However, there are still challenges, such as high capital expenditure requirements and changing consumer preferences. The industry is expected to continue growing, driven by mobile services, particularly 4G and 5G, and increasing demand for data and digital services.
+- What variables factors are contributing to customer churn and dissatisfaction?
+- Who are the customers more likely to churn?
+- What actions can be taken to stop them from leaving?
 
-## Existing Research on Customer Satisfaction and Network Providers
-This section reviews existing studies on customer satisfaction with network providers, highlighting key findings on factors that influence satisfaction and dissatisfaction. Existing research has identified several key themes:
-- Network Quality: Studies have consistently shown that network quality is a crucial factor in customer satisfaction e.g Dropped calls, poor coverage, and slow data speeds are common sources of dissatisfaction.
-- Customer Service: Effective customer service is essential for customer satisfaction e.g Long waiting times, unhelpful staff, and unresolved issues lead to dissatisfaction.
-- Pricing and Billing: Customers are sensitive to pricing and billing issues, with transparent and competitive pricing contributing to satisfaction.
-- Data and Internet Services: The quality and availability of data and internet services significantly impact customer satisfaction.
-- Value-Added Services: The provision of value-added services, such as mobile banking and entertainment, can enhance customer satisfaction.
-- Brand Image and Loyalty: A strong brand image and loyalty programs can influence customer satisfaction and retention.
-- Demographic Factors: Demographic factors, such as age, gender, and income, can influence customer satisfaction with network providers.
-  
-These factors are interconnected and can impact one another. For instance, poor network quality can lead to customer service issues, which can further exacerbate dissatisfaction.
+## Data Source
 
-## The factors influencing customer dissatisfaction in networks and their providers 
-The factors influencing customer dissatisfaction in networks and their providers can be categorized into five main areas:
-1. Network Performance
-- Poor network coverage and connectivity
-- Slow data speeds and buffering
-- Frequent dropped calls and poor voice quality
-- Unreliable connections and disconnections
-2. Customer Service
-- Long wait times and unhelpful customer support
-- Unresolved issues and complaints
-- Lack of transparency and communication
-- Unfriendly and unapproachable customer service representatives
-3. Pricing and Billing
-- Perceived high costs for services and data plans
-- Unexpected charges and billing errors
-- Limited data options and high data costs
-- Difficulty making payments and managing accounts
-4. Value-Added Services
-- Limited or poor quality of value-added services (e.g., streaming, gaming, entertainment)
-- Difficulty accessing and using value-added services
-- Lack of personalized recommendations and offers
-5. Brand and Reputation
-- Negative brand reputation and perceived poor quality
-- Lack of trust and confidence in the network provider
-- Unfriendly and unapproachable brand image
-- Failure to offer innovative and cutting-edge services and technologies
-These factors can lead to customer dissatisfaction, churn, and negative word-of-mouth, ultimately affecting the network and telecommunications provider's reputation and revenue.
+The dataset for this project was obtained from this website: [**Kaggle**](https://www.kaggle.com/datasets/barun2104/telecom-churn)
 
-## Recommendations for Network Providers to Improve Customer Satisfaction
+## Tools Used
+- Ms. Excel was used to collate the dataset: [**Excel**](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Power BI was used for data cleaning, transforming and visualization: [**Power BI**](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+## Summary 
+The factors that promotes the rate of chunning and dissatisfaction amongst Gage tech users include;
+- Tenure
+- Internet service provider
+- Online Backups
+- Gender
+- Monthly Charges
+---
+
+## Recommendations for Gage Tech to Improve Customer Satisfaction
 Based on the findings and analysis of this project. I will recomend
 
 1. Network Performance
@@ -92,17 +75,4 @@ By implementing these recommendations, network providers can improve customer sa
 
 ![](R.png)
 
-|Heading 1| Heading2 | Heading 3|
-|---------|----------|----------|
-|Data 1 | Data 2 | Data 3 |
 
-## Tools used
-1. Microsoft Excel for data cleaning [Download here](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing)
-
-
-   ```
-
-   Goggle query sheet
-
-   SELECT * FROM TABLE 1
-   WHERE CONDITION = NET
