@@ -1,15 +1,15 @@
-# GAGE TECH DATA ANALYSIS
+# GAGE TECH CUSTOMER CHURN RATE ANALYSIS
 
 ## Description
 
 GAGE TECH is a top telecom provider in Redemption City of God, offering advanced fiber optic and DSL internet since 2015. Our network delivers speeds up to 1 Gbps with ultra-low latency, ideal for streaming, gaming, and remote work. We're dedicated to customer satisfaction, innovation, and bridging the digital divide.
 
-![](
+
 
 ## Overview
-This dataset contains different customers level information for GAGE TECH company. Different attributes related to the services used were recorded with focus on all factors influencing their dissatisfaction.
+This dataset contains different customers level information for GAGE TECH customers. Different attributes related to the services used were recorded with focus on all factors influencing their dissatisfaction.
 
-#### This reports details the analysis of customer satisfaction towards Gage Tech. in the last 2years. The study findings will contribute to the existing literature and offer valuable insights for this company to enhance their services and improve customer satisfaction.
+#### This reports details the analysis of customer dissatisfaction towards Gage Tech. in the last 2years. The study findings will contribute to the existing literature and offer valuable insights for this company to enhance their services and improve customer satisfaction.
 
 ## Background of study
 The telecommunications industry in Nigeria has experienced significant growth in recent years, with multiple network providers offering services to customers.
@@ -29,7 +29,7 @@ The dataset for this project was obtained from this website: [**Kaggle**](https:
 - Power BI was used for data cleaning, transforming and visualization: [**Power BI**](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ## Summary 
-The factors that promotes the rate of chunning and dissatisfaction amongst Gage tech users include;
+Leveraged AI tools and machine learning algorithms to analyze customer data, identifying key drivers of churn. Collaborated with Gage Tech's team to integrate findings into their CRM system, enabling data-driven decision-making. This project showcases my expertise in AI-driven data analysis, project management, and collaborative problem-solving. From the analysis the major factors that promotes the rate of chunning and dissatisfaction amongst Gage tech users include;
 - Tenure
 - Internet service provider
 - Online Backups
