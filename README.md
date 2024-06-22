@@ -32,10 +32,16 @@ The dataset for this project was obtained from this website: [**Kaggle**](https:
 ## Summary 
 Leveraged AI tools and machine learning algorithms to analyze customer data, identifying key drivers of churn. Collaborated with Gage Tech's team to integrate findings into their CRM system, enabling data-driven decision-making. This project showcases my expertise in AI-driven data analysis, project management, and collaborative problem-solving. From the analysis the major factors that promotes the rate of chunning and dissatisfaction amongst Gage tech users include;
 - Tenure
-- Internet service provider
+- phone service
+- Technical support
 - Online Backups
 - Gender
 - Monthly Charges
+- Online services
+- payment methods
+- online security
+  
+  ![](gagetech1.png)  ![](gagetech2.png)
   
 ---
 
